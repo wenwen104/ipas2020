@@ -1,6 +1,6 @@
 ## -尚未整理- 1019 
 
-## virtualbox
+ virtualbox
 
 系統平台
 cloud iot nobile
@@ -34,6 +34,8 @@ mac https://zh.wikipedia.org/wiki/MAC%E5%9C%B0%E5%9D%80
 https://nmap.org/nsedoc/categories/vuln.html
 
 ## CVE
+
+https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796   CVE-2020-0796
 
 https://cve.mitre.org/
 
