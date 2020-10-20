@@ -27,7 +27,7 @@ pt 攻
 3.OS?
 4.是否有某漏洞?
 
-cve20200796 查 windows xp cve smb
+cve20200796 查 windowsxp cve smb
 
 mac https://zh.wikipedia.org/wiki/MAC%E5%9C%B0%E5%9D%80
 
