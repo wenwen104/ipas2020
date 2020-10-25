@@ -46,4 +46,20 @@ MS-08-067
 MS-17-010
 
 openvas
+nmap兩大技術 
+---
+      一般掃描  
+      nse(Nmap Scripting Engine)
+---
 
+
+
+wireshark
+
+RTMP
+
+HTTP
+DHCP
+DNS
+SMB
+SAMBA
