@@ -1,0 +1,7 @@
+### 存取控制
+
+存取控制 (英語：Access control)
+
+In the fields of physical security and information security, access control (AC) is the selective restriction of access to a place or other resource[1]
+while access management describes the process. The act of accessing may mean consuming, entering, or using. Permission to access a resource is called authorization.
+Locks and login credentials are two analogous mechanisms of access control.
